@@ -65,10 +65,31 @@ button:hover {
 	background-color: white;
 }
 
+i {
+padding-top: 0px;
+padding-left: 0px;
+}
+
+
 h2{
 	text-align: center;
 	color: white;
 }
+
+        section {
+               width: 100%;
+               color: black;
+        }
+
+        li {
+              border-bottom: 1px solid black;
+              font-size: 1em;
+         }
+
+        li:hover {
+              font-size: 1.2em;
+        }
+
 
 .box {
 	margin-left: 15px;
@@ -125,7 +146,7 @@ div {
 	width: 95%;
 	height: 340px;
 }
-.toplink: hover {
+a.toplink: hover {
  color: white;
 }
 
@@ -175,4 +196,8 @@ div {
 		left: 230px;
 		width: 148px;
 	}
+	section {
+               width: 100%;
+               color: black;
+        }
 }
