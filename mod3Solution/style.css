@@ -125,6 +125,9 @@ div {
 	width: 95%;
 	height: 340px;
 }
+#toplink: hover {
+ color: white;
+}
 
 @media(min-width: 1200px) {
 
