@@ -125,7 +125,7 @@ div {
 	width: 95%;
 	height: 340px;
 }
-#toplink: hover {
+.toplink: hover {
  color: white;
 }
 
